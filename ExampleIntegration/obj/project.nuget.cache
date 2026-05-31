@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "50XAuMnoecc=",
+  "success": true,
+  "projectFilePath": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegration\\ExampleIntegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mfsca\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\mfsca\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\mfsca\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
