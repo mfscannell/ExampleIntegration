@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/DevComposeIntegration/">
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Project Path="ExampleIntegration/ExampleIntegration.csproj" />
+  <Project Path="ExampleIntegrationTests/ExampleIntegrationTests.csproj" Id="2d171c38-3f56-4b49-8acb-b0a4c536192c" />
 </Solution>

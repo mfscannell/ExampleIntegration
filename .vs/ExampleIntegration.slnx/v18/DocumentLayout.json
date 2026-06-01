@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\CsharpRepos\\ExampleIntegration\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D171C38-3F56-4B49-8ACB-B0A4C536192C}|ExampleIntegrationTests\\ExampleIntegrationTests.csproj|c:\\csharprepos\\exampleintegration\\exampleintegrationtests\\weatherforecastcontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D171C38-3F56-4B49-8ACB-B0A4C536192C}|ExampleIntegrationTests\\ExampleIntegrationTests.csproj|solutionrelative:exampleintegrationtests\\weatherforecastcontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1296009C-5069-A54C-3EBD-A53858C756FD}|ExampleIntegration\\ExampleIntegration.csproj|c:\\csharprepos\\exampleintegration\\exampleintegration\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1296009C-5069-A54C-3EBD-A53858C756FD}|ExampleIntegration\\ExampleIntegration.csproj|solutionrelative:exampleintegration\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1296009C-5069-A54C-3EBD-A53858C756FD}|ExampleIntegration\\ExampleIntegration.csproj|c:\\csharprepos\\exampleintegration\\exampleintegration\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1296009C-5069-A54C-3EBD-A53858C756FD}|ExampleIntegration\\ExampleIntegration.csproj|solutionrelative:exampleintegration\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1296009C-5069-A54C-3EBD-A53858C756FD}|ExampleIntegration\\ExampleIntegration.csproj|c:\\csharprepos\\exampleintegration\\exampleintegration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1296009C-5069-A54C-3EBD-A53858C756FD}|ExampleIntegration\\ExampleIntegration.csproj|solutionrelative:exampleintegration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532D6C0E-8AFB-478C-9369-0E6C3B06FB13}|NewFolder1{532D6C0E-8AFB-478C-9369-0E6C3B06FB13}|C:\\CsharpRepos\\ExampleIntegration\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{532D6C0E-8AFB-478C-9369-0E6C3B06FB13}|NewFolder1{532D6C0E-8AFB-478C-9369-0E6C3B06FB13}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegrationTests\\WeatherForecastControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "ExampleIntegrationTests\\WeatherForecastControllerIntegrationTests.cs",
+              "ToolTip": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegrationTests\\WeatherForecastControllerIntegrationTests.cs",
+              "RelativeToolTip": "ExampleIntegrationTests\\WeatherForecastControllerIntegrationTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIA/wFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:13:37.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegration\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ExampleIntegration\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegration\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ExampleIntegration\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:01:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegration\\Entities\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ExampleIntegration\\Entities\\WeatherForecast.cs",
+              "ToolTip": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegration\\Entities\\WeatherForecast.cs",
+              "RelativeToolTip": "ExampleIntegration\\Entities\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T22:55:25.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegration\\appsettings.json",
+              "RelativeDocumentMoniker": "ExampleIntegration\\appsettings.json",
+              "ToolTip": "C:\\CsharpRepos\\ExampleIntegration\\ExampleIntegration\\appsettings.json",
+              "RelativeToolTip": "ExampleIntegration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T22:53:11.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\CsharpRepos\\ExampleIntegration\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\CsharpRepos\\ExampleIntegration\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-31T22:49:18.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

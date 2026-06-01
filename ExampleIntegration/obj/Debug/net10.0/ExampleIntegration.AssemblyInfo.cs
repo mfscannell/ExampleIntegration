@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleIntegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5728777e363e3269ab50720901ab2f806e243747")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleIntegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleIntegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

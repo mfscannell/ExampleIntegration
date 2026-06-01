@@ -1,3 +1,5 @@
+using ExampleIntegration.Data;
+using ExampleIntegration.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ExampleIntegration.Controllers
@@ -10,17 +12,19 @@ namespace ExampleIntegration.Controllers
         [
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         ];
+        private readonly ApplicationDbContext _dbContext;
+
+        public WeatherForecastController(ApplicationDbContext dbContext)
+        {
+          _dbContext = dbContext;
+        }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        public IEnumerable<WeatherForecast> Get()
+        public ActionResult<IEnumerable<WeatherForecast>> Get()
         {
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-            })
-            .ToArray();
+            var result = _dbContext.WeatherForecasts.ToList();
+
+            return Ok(result);
         }
     }
 }
